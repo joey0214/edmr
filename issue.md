@@ -1,3 +1,6 @@
+
+This repo forked from [ShengLi](https://github.com/ShengLi/edmr)
+
 when run the ´edmr´ function, had error Error in `[.data.frame`(peaks, overlap.idx@subjectHits, ) : 
   no slot of name "subjectHits" for this object of class "SortedByQueryHits"
 
